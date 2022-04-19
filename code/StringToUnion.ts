@@ -3,4 +3,4 @@ type StringToUnion<Str extends string> =
     ? First | StringToUnion<Rest>
     : never;
 
-type StringToUnionResult = StringToUnion<"apple">;
+type StringToUnionResult = StringToUnion<"banana">;

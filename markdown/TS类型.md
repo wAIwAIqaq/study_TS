@@ -121,7 +121,7 @@ type tuple = [string, number?];
 
 # TypeScript 类型系统中的类型运算
 
-#### 条件类型(Contional Type)
+#### 条件类型(Conditional Type)
 
 #### extends ? :
 
